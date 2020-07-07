@@ -1,4 +1,4 @@
-newz = []
+
 def square_array(array)
   newz = []
   array.each do |num|
