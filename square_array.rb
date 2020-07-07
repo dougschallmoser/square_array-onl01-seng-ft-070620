@@ -1,6 +1,6 @@
-
+newz = []
 def square_array(array)
   array.each do |num|
-    newz = num**2
+    newz.push(num**2)
   end
 end
